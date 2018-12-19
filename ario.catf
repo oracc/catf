@@ -128,6 +128,28 @@ $ ruling
 10. _lugal_ e-te-pu-usz
 11. u ul-tak-lil
 
+&Q007254 = Artaxerxes I 05
+#atf: lang peo
+#From Oracc. See http://oracc.org/ario/Q007254
+@tablet 
+@obverse
+
+@h1 Hieroglyphic version
+
+@m=locator Hieroglyphs 
+1. 
+
+&Q007255 = Artaxerxes I 06
+#atf: lang peo
+#From Oracc. See http://oracc.org/ario/Q007255
+@tablet 
+@obverse
+
+@h1 Hieroglyphic version
+
+@m=locator Hieroglyphs 
+1. 
+
 &Q007266 = Artaxerxes II 01
 #atf: lang peo
 #From Oracc. See http://oracc.org/ario/Q007266
@@ -1763,7 +1785,7 @@ p24. -u-[v : h-d-a : vi-i-s]-i-b#-i-sz : b-g-i-b-i-sz :
 19. ma-u-isz {DISZ}ESZSZANA na-an-ri {DISZ}u2 {d}u-ra-
 20. mas-da u2-un nu-isz-ki2-isz-ni {d}na-ap
 21. mar-pe3-ip-ta2 i-ta2-ka4 a-ak ku-ut-ta2 {ASZ}hal-
-22. mar-rasz2 hi ku-ut-ta2 sza2-rak2 {GISZ}ka4-at hi ik-ka4
+22. mar-rasz2 hi ku-ut-ta2 sza2-rak {GISZ}ka4-at hi ik-ka4
 23. kap0-pa-ka4 hu-pe3 a-nu kin-ni-en ap-pa {DISZ}(LU2.)
 24. MESZ-ir-ra ha-ri-ik-ka4 el-ma-man-ra
 
@@ -3140,6 +3162,15 @@ $ ruling
 @m=locator Persian 
 1. θ-a-t-i-y : x#-sz-y-a-r-sz-a : x-sz-a-y-θ-i-y : v-sz-n-a : a-u-r-disz-z-d-a-h : i-disz-disz : 
 2. du-u-v-r-θ-i-disz : d-a-r-y-v-u-sz : x-sz-a-[y-θ]-i-y : a-ku-u-n-u-sz : h-y : disz-n-a : p-i-[t-a]
+
+&Q007232 = Xerxes I 28
+#atf: lang peo
+#From Oracc. See http://oracc.org/ario/Q007232
+@tablet 
+@obverse
+@m=locator Akkadian 
+1. 
+XYZ. 
 
 &Q007233 = Xerxes I 29
 #atf: lang peo
