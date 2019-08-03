@@ -2773,6 +2773,30 @@ $ ruling
 @m=locator Elamite 
 1. 
 
+&Q007292 = Darius I 79
+#atf: lang peo
+#From Oracc. See http://oracc.org/ario/Q007292
+@tablet 
+@obverse
+
+@h1 Old Persian Version
+
+@m=locator Persian 
+1. [... : p-a-t-i]-sz-u-v-r-i-sz : d-a#-r-y-v-h-u;-
+2. [sz : x-sz-a-y-θ-i-y]-h-y-a : a-munus-r-[x]-a-t-i-y
+$ ruling
+
+@h1 Elamite Version
+
+@m=locator Elamite 
+1. _%elx {[DISZ}... {DISZ}ba-ut-ti-isz-mar-ri]-isz {DISZ}da-ri-ia-ma-u-isz# {DISZ}ESZSZANA-ir-me-na-ma-ak_
+$ ruling
+
+@h1 Akkadian Version
+
+@m=locator Akkadian 
+1. _{[disz}... {lu2}pa-id-di-isz-hu]-ri-isz a#-na# {disz}da-a-ri-ia-musz# _lugal_ i-_ga-_ir-ra-bi_
+
 &Q007260 = Darius II 1
 #atf: lang peo
 #From Oracc. See http://oracc.org/ario/Q007260
@@ -2783,7 +2807,7 @@ $ ruling
 
 @m=locator Persian 
 1. b-g : v-z-r-k : a-u-r-disz-z-d-a : h-y
-2. : i-disz-a-disz : b-u-mi-i-disz : a-d-a : h-y : a-v-
+2. : i-disz-a-disz : b-u-mi-i-disz : a-d-a : h-y : a-v-;
 3. -disz : a-s-disz-a-n-disz : a-d-a : h-y : disz-r-t-i-;
 4. -y-disz : a-d-a : h-y : sz-i-y-a-t-i-disz : a-d-;
 5. -a : disz-r-t-i-y-h-y-a : h-y : d-a-r-y-v-;
